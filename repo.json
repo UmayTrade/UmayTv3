@@ -5,9 +5,7 @@
   "pluginLists": [
     "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json"
   ]
-  
-},
-{
+
     "name": "Latte - Sinetech.TR",
     "description": "Sinetech.tr Özel Cloudstream Deposu",
     "manifestVersion": 1,
