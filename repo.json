@@ -4,9 +4,14 @@
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json"
-  ],
-  [
-    "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/builds/plugins.json"
   ]
   
-}
+},
+{
+    "name": "Latte - Sinetech.TR",
+    "description": "Sinetech.tr Özel Cloudstream Deposu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json"
+    ]
+  }
